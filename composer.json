@@ -27,7 +27,7 @@
     },
     "require": {
         "yiisoft/yii2": "*",
-        "bower-asset/Chart.js": "2.1.*"
+        "bower-asset/Chart.js": "*"
     },
     "require-dev": {
         "phpunit/phpunit": "4.*"
